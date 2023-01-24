@@ -7,3 +7,4 @@ This is an attempt at providing answers to questions concerning my personal expe
 1c. Which day of the week/year did I spend the most?<br>
 
 2. Which month did I spend the most?
+3. which weekend did I spend most/least?
